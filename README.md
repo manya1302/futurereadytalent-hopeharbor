@@ -7,6 +7,7 @@
 
 Web Technologies used: HTML, CSS, JS
 
+
 **IDE:**
 VS-Code
 
